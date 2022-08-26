@@ -5,6 +5,8 @@
 - Cyber Security Architect
 - Security Awereness and Mentor
 - Artificial intelligence researcher in cybersecurity
+- Adventurer on [Wikiloc](https://pt.wikiloc.com/wikiloc/user.do?id=6649644):leaves:
+
 <br />
 
 [Here's](https://beacons.ai/ouigabi) a little bit about career and materials :)
