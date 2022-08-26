@@ -1,16 +1,24 @@
-### Hi there 👋
+###  👋:computer:
 
-<!--
-**ouigabi/ouigabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Engineer | [@UNIVESP](https://univesp.br/)
+- MBA | [@USP](https://https://cursosextensao.usp.br/dashboard/)
+- Cyber Security Architect
+- Security Awereness and Mentor
+- Artificial intelligence researcher in cybersecurity
+<br />
 
-Here are some ideas to get you started:
+[Here's](https://beacons.ai/ouigabi) a little bit about career and materials :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+
+<a href="https://www.linkedin.com/in/ouigabi/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
+</a>
+<a href="https://twitter.com/ouigabi"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-256.png" width="32" height="32" />
+</a>
+<a href="https://www.instagram.com/ouigabi/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" width="32" height="32" />
+<br />
+<br />
+<br />
+![](https://komarev.com/ghpvc/?username=ouigabi&color=ee959e)
