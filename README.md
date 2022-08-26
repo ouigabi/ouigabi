@@ -1,7 +1,7 @@
 ###  👋:computer:
 
-- Computer Engineer | [@UNIVESP](https://univesp.br/)
-- MBA | [@USP](https://https://cursosextensao.usp.br/dashboard/)
+- Computer Engineer, 2018 | [@UNIVESP](https://univesp.br/)
+- MBA, 2022 | [@USP](https://https://cursosextensao.usp.br/dashboard/)
 - Cyber Security Architect
 - Security Awereness and Mentor
 - Artificial intelligence researcher in cybersecurity
