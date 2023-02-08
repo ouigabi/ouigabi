@@ -5,9 +5,6 @@
 - [Security Awereness](https://ouigabi.azurewebsites.net) and Mentor
 - Artificial intelligence researcher in cybersecurity
 
-<br />
-
-[Here's](https://beacons.ai/ouigabi) a little bit about career and materials :)
 
 <br />
 <br />
