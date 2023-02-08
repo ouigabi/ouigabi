@@ -3,7 +3,7 @@
 - Computer Engineer, 2018 | [@UNIVESP](https://univesp.br/)
 - MBA, 2022 | [@USP](https://https://cursosextensao.usp.br/dashboard/)
 - Cyber Security Specialist
-- [Security Awereness] (https://ouigabi.azurewebsites.net) and Mentor
+- [Security Awereness](https://ouigabi.azurewebsites.net) and Mentor
 - Artificial intelligence researcher in cybersecurity
 
 <br />
