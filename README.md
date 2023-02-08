@@ -2,7 +2,6 @@
 
 - Computer Engineer, 2020 | @UNIVESP
 - MBA, 2022 | @USP
-- Cyber Security Specialist
 - [Security Awereness](https://ouigabi.azurewebsites.net) and Mentor
 - Artificial intelligence researcher in cybersecurity
 
