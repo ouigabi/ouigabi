@@ -1,7 +1,7 @@
 ###  👋:computer:
 
-- Computer Engineer, 2018 | [@UNIVESP](https://univesp.br/)
-- MBA, 2022 | [@USP](https://https://cursosextensao.usp.br/dashboard/)
+- Computer Engineer, 2018 | @UNIVESP
+- MBA, 2022 | @USP
 - Cyber Security Specialist
 - [Security Awereness](https://ouigabi.azurewebsites.net) and Mentor
 - Artificial intelligence researcher in cybersecurity
